@@ -1,4 +1,4 @@
-# linux-projects
+
 # Nginx Web Server Deployment & Automated Log Analyzer
 
 ## Overview
